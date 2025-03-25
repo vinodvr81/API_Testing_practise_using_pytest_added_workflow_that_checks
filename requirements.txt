@@ -1,0 +1,6 @@
+pytest
+pytest-html
+httpx
+responses
+pytest-cov
+coverage
